@@ -1,0 +1,218 @@
+.c
+{
+background-color: rgb(226, 225, 225);
+}
+.m
+{
+    width: 270px;
+    height: 500px;
+    background-color: rgb(36, 124, 255);
+    float:left;
+}
+.me
+{
+    float:right;
+    width:1229px;
+    height: 500px;
+    background-image: url(rohit.jpg);
+    margin: 0;
+}
+.pr
+{
+    border-radius: 50%;width: 150px;height: 140px;margin-left: 55px;margin-top: 50px;border: 4px solid white;
+}
+.prf
+{
+    border-radius: 50%;width: 120px;height: 110px;margin-left: 85px;margin-top: 50px;
+}
+.dono
+{
+    display: flex;
+}
+.he
+{
+    margin-top: 50px;margin-left: 20px;font-size: 80px;color: rgb(44, 143, 236);-webkit-text-stroke-color: rgb(255, 255, 255);-webkit-text-stroke-width: 1.6px;font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.name
+{
+    margin-left: 40px;font-size: 70px;color: rgb(0, 0, 0); -webkit-text-stroke-color: rgb(255, 255, 255);-webkit-text-stroke-width: 1.6px;font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.fa {
+    padding: 10px;
+    font-size: 5px;
+    width: 65px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    border-radius: 50%;
+  }
+  .fa-facebook 
+  {
+    background: #3B5998;
+    color: white;
+  }
+  .fa-linkedin 
+  {
+    background: #007bb5;
+    color: white;
+  }
+  .fa-instagram 
+  {
+    background: #da4597;
+    color: white;
+  }
+  .fa-snapchat-ghost 
+  {
+    background: #fffc00;
+    color: white;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+  }
+.b1
+{
+    width: 270px;
+    height: 50px;
+    float:left;
+    font-size: 26px;
+    border-width: 3px;
+    border-radius: 10px;
+    background-color: rgb(231, 237, 250);
+    color: white;
+    -webkit-text-stroke-color: rgb(0, 0, 0);
+    -webkit-text-stroke-width: 1.3px;
+}
+.b2
+{
+    width: 270px;
+    height: 50px;
+    float:left;
+    font-size: 26px;
+    border-width: 3px;
+    border-radius: 10px;
+    background-color: rgb(231, 236, 247);
+    color: white;
+    -webkit-text-stroke-color: rgb(0, 0, 0);
+    -webkit-text-stroke-width: 1.3px;
+}
+.b3
+{
+    width: 270px;
+    height: 50px;
+    float:left;
+    font-size: 26px;
+    border-width: 3px;
+    border-radius: 10px;
+    background-color: rgb(231, 237, 250);
+    color: white;
+    -webkit-text-stroke-color: rgb(0, 0, 0);
+    -webkit-text-stroke-width: 1.3px;
+}
+.b4
+{
+    width: 270px;
+    height: 50px;
+    float:left;
+    font-size: 26px;
+    border-width: 3px;
+    border-radius: 10px;
+    background-color: rgb(231, 237, 248);
+    color: white;
+    -webkit-text-stroke-color: rgb(0, 0, 0);
+    -webkit-text-stroke-width: 1.3px;
+}
+.line
+{
+    width: 1500px;
+    margin-top: 510px;
+}
+.about
+{
+    text-align: center;
+    font-size: 45px;
+}
+.about1
+{
+  width: 800px;
+  height: 150px;
+  border-radius: 10px;
+  border: 5px solid rgb(27, 228, 37);
+  margin: 50px;
+  margin-left: 330px;
+  padding: 30px;
+  font-size: 30px;
+  text-shadow: black;
+  background-color: honeydew;
+}
+.edu
+{
+    text-align: center;
+    font-size: 45px;
+}
+.edu1
+{
+  width: 800px;
+  height: 150px;
+  border-radius: 10px;
+  border: 5px solid rgb(71, 44, 221);
+  margin: 50px;
+  margin-left: 330px;
+  padding: 30px;
+  font-size: 30px;
+  text-shadow: black;
+  background-color: honeydew;
+}
+.skills
+{
+    text-align: center;
+    font-size: 45px;
+}
+.skills1
+{
+  width: 800px;
+  height: 190px;
+  border-radius: 10px;
+  border: 5px solid rgb(255, 65, 65);
+  margin: 50px;
+  margin-left: 330px;
+  padding: 30px;
+  font-size: 30px;
+  text-shadow: black;
+  background-color: honeydew;
+}
+.dot11 {
+    height: 25px;
+    width: 25px;
+    background-color: rgb(0, 0, 0);
+    border-radius: 50%;
+    display: inline-block;
+    float: right;
+    margin-right: 5px;
+  }
+  .dot12 
+  {
+    height: 25px;
+    width: 25px;
+    background-color: rgb(253, 189, 70);
+    border-radius: 50%;
+    display: inline-block;
+    float: right;
+    margin-right: 5px;
+   }
+.contact
+{
+    text-align: center;
+    font-size: 45px;
+}
+.contact1
+{
+  width: 800px;
+  height: 100px;
+  border-radius: 10px;
+  border: 5px solid rgb(225, 250, 0);
+  margin: 50px;
+  margin-left: 330px;
+  padding: 30px;
+  font-size: 30px;
+  text-shadow: black;
+  background-color: honeydew;
+  text-align: center;
+}
